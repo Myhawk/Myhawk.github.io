@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&family=Piedra&family=Roboto:wght@500&display=swap');
+
+
+html {
+    background-color: yellow;
+
+}
+
+body {width: 80%;
+background-color: whitesmoke;
+margin: 0 auto;
+background-size: auto 100%;
+min-width: 150px;}
+
+.gombok {
+    background-color: tomato;
+    box-shadow: 0 0 5px black;
+    font-size: 24px;
+    margin: 0 5%;
+    text-align: center;
+}
+
+
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: brown;
+    font-size: 40px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+thead {
+    font-family: 'Pangolin', cursive;
+    color: green;
+    font-size: 20px;
+}
+td {
+    font-family: 'Piedra', cursive;
+    font-size: 20px;
+}
+
+/*
+font-family: 'Pangolin', cursive;
+font-family: 'Piedra', cursive;
+font-family: 'Roboto', sans-serif;
+*/
